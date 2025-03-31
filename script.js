@@ -74,11 +74,11 @@ window.showLogin = function() {
     document.getElementById("login-box").classList.remove("hidden");
 };
 ",
-    authDomain: "ritcheproject.firebaseapp.com",
-    projectId: "ritcheproject",
-    storageBucket: "ritcheproject.firebasestorage.app",
-    messagingSenderId: "272323265748",
-    appId: "1:272323265748:web:28324786f2326927f9e741"
+    authDomain: "angela-e89d3.firebaseapp.com",
+    projectId: "angela-e89d3",
+    storageBucket: "angela-e89d3.firebasestorage.app",
+    messagingSenderId: "207123548138",
+    appId: "1:207123548138:web:12203cef0ab71a2d155493"
 };
 
 // Initialize Firebase
